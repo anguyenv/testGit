@@ -1,4 +1,4 @@
-blabla david
+david
 un tres gros changement
 
 ici
@@ -14,7 +14,3 @@ YXc
 cXY
 c
 c
-
-
-
-dAVID PTIT CON
