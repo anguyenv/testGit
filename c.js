@@ -7,12 +7,10 @@ ici
 la
 
 c
+cDavid
 c
 c
-c
-c
-c
-c
-gros caca prout
+YXc
+cXY
 c
 c
