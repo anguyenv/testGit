@@ -9,6 +9,5 @@ O
 b
 b
 b
-b
-b
+bXY
 b

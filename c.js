@@ -3,10 +3,6 @@ un tres gros changement
 
 ici
 
-
-la
-
-c
 cDavid
 c
 c
@@ -16,6 +12,8 @@ c
 c
 
 COMMIT MASTER 1
-COMMIT MASTER 2
+COMMIT ANTOINE 2 B
+COMMIT ANTOINE 2 A
+
 
 dAVID PTIT CON
